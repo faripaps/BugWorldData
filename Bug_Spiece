@@ -1,5 +1,0 @@
-
-public enum Bug_Spiece {
-    BLACK,
-    RED
-}
